@@ -25,10 +25,10 @@ organizations:
     url: https://ufsmpublica.ufsm.br/docente/23115
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meus interesses de pesquisa incluem Veículos Autônomos, Simulação de Tráfego e Sistemas Inteligentes de Trnasporte.
+bio: Meus interesses de pesquisa incluem Veículos Autônomos, Simulação de Tráfego e Sistemas Inteligentes de Transporte.
 
 # Interests to show in About widget
-interestsss:
+interests:
   - Veículos Autônomos
   - Sistemas Inteligentes de Transporte
   - Simulação de Tráfego
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor de "Sistemas Inteligentes de Transporte" e "Equilíbrio em Redes de Transporte" no Campus da Universidade Federal de Santa Maria em Cachoeira do Sul (UFSM-CS). Seus interesses de pesquisa incluem Veículos Autônomos, Simulação de Tráfego e novas tecnologias aplicadas à área de engenharia de transportes.
 {style="text-align: justify;"}
