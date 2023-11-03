@@ -25,13 +25,14 @@ organizations:
     url: https://ufsmpublica.ufsm.br/docente/23115
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meus interesses de pesquisa incluem Veículos Autônomos, Simulação de Tráfego e Sistemas Inteligentes de Trnasporte.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interestsss:
+  - Veículos Autônomos
+  - Sistemas Inteligentes de Transporte
+  - Simulação de Tráfego
+  
 
 # Education to show in About widget
 education:
