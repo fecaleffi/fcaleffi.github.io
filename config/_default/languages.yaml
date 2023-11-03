@@ -11,7 +11,7 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
+pt:
   languageCode: pt-br
   contentDir: content/pt
   title: Portuguese website title...
