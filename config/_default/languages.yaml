@@ -13,7 +13,7 @@ languages:
   en:
     languageName: English
     weight: 2
-    contentDir: contenten
+    contentDir: content/en
 
 
 #en:
