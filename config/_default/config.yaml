@@ -12,8 +12,30 @@ baseURL: 'https://example.com/' # Website URL
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: True  # antes era False
 removePathAccents: true
+
+languages:
+  pt:
+    contentDir: content/pt
+    disabled: false
+    languageCode: pt-BR
+    languageDirection: ltr
+    languageName: Portuguese
+    params:
+      subtitle: Referenz, Tutorials und Erklärungen
+    title: Projekt Dokumentation
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2
 
 ############################
 ## MODULES
