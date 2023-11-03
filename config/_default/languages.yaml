@@ -4,7 +4,7 @@
 
 # Default language
 
-languages:
+'languages:
   pt:
     languageName: Portuguese
     weight: 1
@@ -13,13 +13,13 @@ languages:
   en:
     languageName: English
     weight: 2
-    contentDir: content/en
+    contentDir: content/en'
 
 
-#en:
-#  languageCode: en-us
+en:
+  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-#  contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #pt:
