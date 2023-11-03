@@ -4,16 +4,16 @@
 
 # Default language
 
-'languages:
-  pt:
-    languageName: Portuguese
-    weight: 1
-    contentDir: content/pt
+#languages:
+  #pt:
+   # languageName: Portuguese
+    #weight: 1
+    #contentDir: content/pt
 
-  en:
-    languageName: English
-    weight: 2
-    contentDir: content/en'
+  #en:
+   # languageName: English
+    #weight: 2
+    #contentDir: content/en'
 
 
 en:
