@@ -11,7 +11,7 @@ last_name: Caleffi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'felipe.caleffi@ufsm.br'
+    link: '/#felipe.caleffi@ufsm.br'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -101,7 +101,7 @@ social:
 #    display:
 #      header: true
   - icon: google-scholar # graduation-cap, Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=pt-BR&user=4hzrHOcAAAAJ
   - icon: github
     icon_pack: fab
