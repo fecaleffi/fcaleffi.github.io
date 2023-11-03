@@ -3,7 +3,7 @@
 title: Prof. Felipe Caleffi
 
 # Name pronunciation (optional)
-name_pronunciation: Felipe Caleffi
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Felipe
