@@ -97,7 +97,7 @@ social:
     link: 'mailto:felipe.caleffi@ufsm.br'
 
 # Unstagram
-  - icon: square-instagram
+  - icon: instagram
     icon_pack: fas
     link: https://www.instagram.com/f.caleffi/
 #  - icon: twitter
