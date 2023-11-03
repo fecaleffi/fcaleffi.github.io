@@ -94,7 +94,12 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#felipe.caleffi@ufsm.br'
+    link: felipe.caleffi@ufsm.br
+
+# Unstagram
+  - icon: square-instagram
+    icon_pack: fas
+    link: https://www.instagram.com/f.caleffi/
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -119,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Professor de "Sistemas Inteligentes de Transporte" e "Equilíbrio em Redes de Transporte" no Campus da Universidade Federal de Santa Maria em Cachoeira do Sul (UFSM-CS). Seus interesses de pesquisa incluem Veículos Autônomos, Simulação de Tráfego e novas tecnologias aplicadas à área de engenharia de transportes.
+Professor de "Sistemas Inteligentes de Transporte" e "Equilíbrio em Redes de Transporte" no Campus da Universidade Federal de Santa Maria em Cachoeira do Sul (UFSM-CS). Coordenador do Núcleo de Veículos Autônomos (NVA) da UFSM, laboratório de pesquisa dedicado ao estudo de veículos autônomos.
 {style="text-align: justify;"}
