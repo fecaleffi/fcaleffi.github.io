@@ -94,7 +94,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: felipe.caleffi@ufsm.br
+    link: 'mailto:felipe.caleffi@ufsm.br'
 
 # Unstagram
   - icon: square-instagram
