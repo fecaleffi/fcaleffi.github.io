@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Prof. Felipe Caleffi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Felipe Caleffi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Felipe
+last_name: Caleffi
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor de Engenharia de Transportes
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Universidade Federal de Santa Maria (UFSM)
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
