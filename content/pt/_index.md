@@ -79,30 +79,30 @@ sections:
     design:
       columns: '2'
   
-  - block: skills
-    content:
-      title: Habilidades
-      text: ''   
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+#  - block: skills
+#    content:
+#      title: Habilidades
+#      text: ''   
+#      # Choose a user to display skills from (a folder name within `content/authors/`)
+#      username: admin
+#    design:
+#      columns: '1'
 
 
   - block: features
     content:
-      title: My Interests
-      subtitle: xxxxxxxxxxx subtitle
-      text: Section xxxxxxxxxxxxxxxxxx
+      title: Habilidades
+      subtitle: ''
+      text: ''
       items:
-        - name: Vissim
+        - name: Python
           #description: 90%
-          icon: r-project
+          icon: python
           icon_pack: fab
-        - name: Statistics
+        - name: PTV Vissim
           description: 100%
-          icon: chart-line
-          icon_pack: fas
+          icon: vissim
+          #icon_pack: fas
         - name: Photography
           description: 10%
           icon: camera-retro
