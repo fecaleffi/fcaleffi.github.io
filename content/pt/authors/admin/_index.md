@@ -53,10 +53,15 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - icon: chalkboard-teacher
-    icon_pack: fas
-    name: Slides
-    description: 'kdfjhdkjghfd kjdfh kjdfgh dfkj'
+    items:
+      - name: Python
+        description: 'teste tetete'
+        icon: python
+        icon_pack: fab
+      - name: Data Science
+        description: ''
+        icon: chart-line
+        icon_pack: fas
 
 
 #  - name: Technical
