@@ -183,7 +183,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Galeria
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -217,7 +217,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Talksss
       filters:
         folders:
           - event
