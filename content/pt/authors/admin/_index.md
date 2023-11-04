@@ -53,6 +53,12 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
+  feature:
+    - description: Process | Analyze | Visualize
+      icon: r-project
+      icon_pack: fab
+      name: Inferential Statistics in R
+
   - name: Technical
     items:
       - name: Python
@@ -97,7 +103,8 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:felipe.caleffi@ufsm.br'
+    link: '/#contact'
+    #link: 'mailto:felipe.caleffi@ufsm.br'
 
 # Unstagram
   - icon: instagram
