@@ -82,8 +82,8 @@ sections:
   - block: skills
     content:
       title: Habilidades
-      text: 'testando'
-      feature:
+      text: ''
+      items:
       - description: Process | Analyze | Visualize
         icon: r-project
         icon_pack: fab
