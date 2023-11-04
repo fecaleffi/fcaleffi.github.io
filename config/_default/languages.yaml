@@ -4,25 +4,11 @@
 
 # Default language
 
-languages:
-  pt:
-    contentDir: content/pt
-    disabled: false
-    languageCode: pt-BR
-    languageDirection: ltr
-    languageName: Portuguese
-    weight: 1
-  en:
-    contentDir: content/en
-    disabled: false
-    languageCode: en-US
-    languageDirection: ltr
-    languageName: English
-    weight: 2
 
 
-#en:
- # languageCode: en-us
+
+en:
+  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
