@@ -53,7 +53,7 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-    feature:
+    items:
       - name: Python
         description: 'teste tetete'
         icon: python
