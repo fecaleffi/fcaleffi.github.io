@@ -82,21 +82,32 @@ sections:
   - block: skills
     content:
       title: Habilidades
-      text: ''
-      items:
-      - description: Process | Analyze | Visualize
-        icon: r-project
-        icon_pack: fab
-        name: Inferential Statistics in R
-      - description: Open data/materials/code | Registered reports <br /> Synthetic data | Team science
-        icon: osf
-        icon_pack: ai
-        name: Open Research
-     
+      text: ''   
       # Choose a user to display skills from (a folder name within `content/authors/`)
       #username: admin
     design:
       columns: '1'
+
+
+  - block: features
+      content:
+        title: My Interests
+        subtitle: xxxxxxxxxxx subtitle
+        text: Section xxxxxxxxxxxxxxxxxx
+        items:
+          - name: Vissim
+            #description: 90%
+            icon: r-project
+            icon_pack: fab
+          - name: Statistics
+            description: 100%
+            icon: chart-line
+            icon_pack: fas
+          - name: Photography
+            description: 10%
+            icon: camera-retro
+            icon_pack: fas
+  
   
   - block: accomplishments
     content:
