@@ -101,12 +101,21 @@ sections:
           icon_pack: fab
         - name: PTV Vissim
           description: Simulação de tráfego 
-          icon: traffic-light
-          icon_pack: fas
+          icon: :vertical_traffic_light:	
+          icon_pack: emogi
+          #icon: traffic-light
+          #icon_pack: fas
         - name: Photography
           description: 10%
           icon: camera-retro
           icon_pack: fas
+          
+          
+        # Uncomment to use emoji icons.
+          #- icon: ":smile:"
+          #  icon_pack: "emoji"
+          #  name: "Emojiness"
+          #  description: "100%"
   
   
   - block: accomplishments
