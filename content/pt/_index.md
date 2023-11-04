@@ -96,14 +96,21 @@ sections:
       text: ''
       items:
         - name: Python
-          #description: 90%
+          description: Ciencia de dados
+          icon: python
+          icon_pack: fab
+        - name: Python
+          description: Machine lerning
+          icon: python
+          icon_pack: fab
+        - name: Python
+          description: Deep learning
           icon: python
           icon_pack: fab
         - name: PTV Vissim
-          description: Simulação de tráfego 
-          icon:🚦
-          #icon: traffic-light
-          #icon_pack: fas
+          description: Simulação de tráfego
+          icon: traffic-light
+          icon_pack: fas
         - name: Photography
           description: 10%
           icon: camera-retro
