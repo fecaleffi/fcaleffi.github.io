@@ -101,8 +101,7 @@ sections:
           icon_pack: fab
         - name: PTV Vissim
           description: Simulação de tráfego 
-          icon: :vertical_traffic_light:	
-          icon_pack: emogi
+          icon:🚦
           #icon: traffic-light
           #icon_pack: fas
         - name: Photography
