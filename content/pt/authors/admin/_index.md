@@ -53,6 +53,10 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
+  - icon: chalkboard-teacher
+    icon_pack: fas
+    name: Slides
+    description: 'kdfjhdkjghfd kjdfh kjdfgh dfkj'
 
 
 #  - name: Technical
