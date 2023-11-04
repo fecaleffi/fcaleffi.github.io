@@ -82,10 +82,19 @@ sections:
   - block: skills
     content:
       title: Habilidades
-      text: ''
+      text: 'testando'
+      feature:
+      - description: Process | Analyze | Visualize
+        icon: r-project
+        icon_pack: fab
+        name: Inferential Statistics in R
+      - description: Open data/materials/code | Registered reports <br /> Synthetic data | Team science
+        icon: osf
+        icon_pack: ai
+        name: Open Research
      
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      #username: admin
     design:
       columns: '1'
   
