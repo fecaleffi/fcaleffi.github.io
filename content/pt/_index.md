@@ -101,7 +101,7 @@ sections:
           icon_pack: fab
         - name: PTV Vissim
           description: Simulação de tráfego 
-          icon: traffic-light-go
+          icon: traffic-light
           icon_pack: fas
         - name: Photography
           description: 10%
