@@ -53,11 +53,7 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  features:
-    - description: Process | Analyze | Visualize
-      icon: r-project
-      icon_pack: fab
-      name: Inferential Statistics in R
+
 
 #  - name: Technical
 #    items:

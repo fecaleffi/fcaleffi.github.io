@@ -83,6 +83,11 @@ sections:
     content:
       title: Habilidades
       text: ''
+      feature:
+        - description: Process | Analyze | Visualize
+          icon: r-project
+          icon_pack: fab
+          name: Inferential Statistics in R
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
