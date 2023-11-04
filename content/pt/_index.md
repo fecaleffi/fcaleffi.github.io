@@ -100,9 +100,9 @@ sections:
           icon: python
           icon_pack: fab
         - name: PTV Vissim
-          description: 100%
-          icon: vissim
-          #icon_pack: fas
+          description: Simulação de tráfego 
+          icon: traffic-light-go
+          icon_pack: fas
         - name: Photography
           description: 10%
           icon: camera-retro
