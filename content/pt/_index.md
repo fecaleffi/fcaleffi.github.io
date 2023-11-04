@@ -84,29 +84,29 @@ sections:
       title: Habilidades
       text: ''   
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      #username: admin
+      username: admin
     design:
       columns: '1'
 
 
   - block: features
-      content:
-        title: My Interests
-        subtitle: xxxxxxxxxxx subtitle
-        text: Section xxxxxxxxxxxxxxxxxx
-        items:
-          - name: Vissim
-            #description: 90%
-            icon: r-project
-            icon_pack: fab
-          - name: Statistics
-            description: 100%
-            icon: chart-line
-            icon_pack: fas
-          - name: Photography
-            description: 10%
-            icon: camera-retro
-            icon_pack: fas
+    content:
+      title: My Interests
+      subtitle: xxxxxxxxxxx subtitle
+      text: Section xxxxxxxxxxxxxxxxxx
+      items:
+        - name: Vissim
+          #description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
   
   
   - block: accomplishments
@@ -151,6 +151,9 @@ sections:
           url: ''
     design:
       columns: '1'
+  
+  
+  
   - block: collection
     id: posts
     content:
@@ -178,6 +181,10 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  
+  
+  
+  
   - block: portfolio
     id: projects
     content:
@@ -205,6 +212,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  
+  
   - block: markdown
     content:
       title: Galeria
@@ -213,6 +222,8 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+  
+  
   - block: collection
     id: featured
     content:
@@ -224,6 +235,8 @@ sections:
     design:
       columns: '2'
       view: card
+  
+  
   - block: collection
     content:
       title: Recent Publications
@@ -238,6 +251,9 @@ sections:
     design:
       columns: '2'
       view: citation
+  
+  
+  
   - block: collection
     id: talks
     content:
@@ -248,11 +264,9 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  
+  
+  
   - block: contact
     id: contact
     content:
