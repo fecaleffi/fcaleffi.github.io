@@ -98,7 +98,7 @@ social:
 
 # Unstagram
   - icon: instagram
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.instagram.com/f.caleffi/
 #  - icon: twitter
 #    icon_pack: fab
